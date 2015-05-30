@@ -2,14 +2,16 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+
+Tech blog by the Modulo Project.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Modulo Blog is a blog about the latest in technology and computing. It's made by the members of the [Modulo Project](https://github.com/moduloproject).
 
-### Contact me
+### Contact us
 
-[email@domain.com](mailto:email@domain.com)
+[themoduloteam@gmail.com](mailto:themoduloteam@gmail.com)
