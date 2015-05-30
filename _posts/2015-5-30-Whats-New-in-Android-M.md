@@ -2,7 +2,6 @@
 layout: post
 title: "What's New in Android M"
 author: david_bailey
-published: true
 ---
 
 It's that time of year again when everyone gets hyped over what Google is planning for the future of its projects -- it could only be Google I/O. This year is no exception, with talks on everything from smartwatches to virtual reality. Of course, the biggest focus is on the next version of Android -- at the moment, it's simply known as Android M.
