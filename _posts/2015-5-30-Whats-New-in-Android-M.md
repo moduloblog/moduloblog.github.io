@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "What's New in Android M"
+author: david_bailey
 published: true
 ---
 
