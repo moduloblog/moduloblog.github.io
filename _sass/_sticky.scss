@@ -1,0 +1,14 @@
+html, body {
+  height: 100%;
+}
+
+#main {
+  min-height: calc(100% - 212px);
+  margin-bottom: -89px;
+}
+
+#main:after {
+  content: "";
+  display: block;
+  height: 89px;
+}
